@@ -14,7 +14,7 @@ public class FazEverything {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("O pila é gay!");
+        System.out.println("O pila é gay e gosta de java!");
         System.out.println("A Perry é feia!");
         System.out.println("O capitale é burro!");
     }
